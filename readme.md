@@ -3,8 +3,7 @@
 ## **Descrição do Projeto**
 Este projeto de pesquisa é focado no desenvolvimento de **sistemas de recomendação de vagas de emprego** utilizando técnicas avançadas de **Deep Learning**. O objetivo principal é criar soluções que analisem dados textuais de descrições de vagas e perfis de candidatos para fornecer recomendações personalizadas e eficazes.
 
-O projeto utiliza modelos de representação de dados, como **BERT** e **BERTimbau**, para gerar embeddings textuais que representam semanticamente as informações das vagas e dos candidatos. Além disso, exploramos abordagens híbridas de recomendação e aprendizado por reforço para otimizar a qualidade das recomendações.
-(Aqui voce verá também nos notebooks o avanço de forma temporal do meu projeto e do meu aprendizado)
+(No momento o projeto utiliza uma base de dados em inglês)
 ---
 
 ## **Objetivos**

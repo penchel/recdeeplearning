@@ -28,15 +28,11 @@ Este projeto de pesquisa é focado no desenvolvimento de **sistemas de recomenda
 
 ## **Próximos Passos**
 
-1. **Representação e Métricas de Similaridade**:
-   - Utilizar **BERTimbau** para gerar embeddings para o conjunto de dados textual de descrições de vagas e perfis de candidatos.
-   - Implementar cálculo de similaridade entre os textos utilizando a biblioteca `scikit-learn` e validar os resultados.
-
-2. **Modelos de Recomendação**:
+1. **Modelos de Recomendação**:
    - Implementar e testar modelos básicos de recomendação utilizando bibliotecas como TensorFlow e PyTorch.
    - Comparar abordagens híbridas utilizando datasets reais relacionados a vagas de emprego.
 
-3. **Exploração de Aprendizado por Reforço**:
+2. **Exploração de Aprendizado por Reforço**:
    - Criar um modelo básico que utiliza Reinforcement Learning para decisões de recomendação.
    - Testar a abordagem em cenários simulados para avaliar seu impacto em métricas de recomendação específicas do contexto de vagas.
 
